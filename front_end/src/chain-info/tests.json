@@ -1,0 +1,24 @@
+{
+  "contracts": {
+    "DappToken": "75232a507b226730cf1ec5303ff70eb1c61073c2",
+    "LinkToken": "49e7bae2df618e81d877632c6ad55872ff2ce801",
+    "MockDAI": "80f6952748bb0b4dad0fafc96420422a7300bf1e",
+    "MockV3Aggregator": "9e734e161b5cafcca52a917f10266f5a8bc05b28",
+    "MockWETH": "6d6e5c08c81e483ad4f4abb5e19f06b8ad6f76b8",
+    "OpenZeppelin/openzeppelin-contracts@4.2.0/ERC20": "05b44f80e08900a7aa6bf3a608b9deb527af43d3",
+    "TokenFarm": "23400b208c7414fc9c3d275fd58c7ad8ee113672",
+    "smartcontractkit/chainlink-brownie-contracts@0.4.0/BasicToken": "92084ac5279a2a3db988d9e01d7e6d3e3a4dab8d",
+    "smartcontractkit/chainlink-brownie-contracts@0.4.0/SafeMathChainlink": "bf84f5dba942291289c80f271862cb515ce813ab",
+    "smartcontractkit/chainlink-brownie-contracts@0.4.0/StandardToken": "7f21b0e2f1d1fcf89f4466183c9e73bc3cf77276"
+  },
+  "tests": {
+    "tests/unit/test_token_farm.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "sss.",
+      "sha1": "cd7e0c203ca02f64fea697e62b928b58386874c5",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
